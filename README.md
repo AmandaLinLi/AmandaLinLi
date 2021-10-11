@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmandaLinLi
-- 👀 I’m interested in data science in healthcare and biotechnology industry 
+- 👀 I’m interested in data science in healthcare, academia and biotechnology industry 
 - 🌱 I’m currently learning Python, C, data structure and algorithms 
 - 💞️ I’m looking to collaborate on R packages
 - 📫 Please reach me by FB Amanda Lin Li
