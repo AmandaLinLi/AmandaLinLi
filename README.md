@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmandaLinLi
 - 👀 I’m interested in data science in healthcare, academia and biotechnology industry 
-- 🌱 I’m currently learning Python, C, data structure and algorithms 
-- 💞️ I’m looking to collaborate on R packages
+- 🌱 I’m currently learning Python, C, shell,data structure and algorithms 
+- 💞️ I’m looking to collaborate on R and Python packages
 - 📫 Please reach me by FB Amanda Lin Li
 
 <!---
